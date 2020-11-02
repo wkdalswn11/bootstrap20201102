@@ -11,30 +11,56 @@
 <title>Insert title here</title>
 </head>
 <body>
-<!-- 주석: ctrl+shift+/ -->
+<div class="container">
 <!-- table.table>tr>th*3>lorem1^^tr*3>td*3>lorem1 -->
 <table class="table">
 	<tr>
 		<th>Lorem.</th>
-		<th>Incidunt.</th>
-		<th>Itaque.</th>
+		<th>Ea!</th>
+		<th>Totam!</th>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Eligendi?</td>
-		<td>Doloremque.</td>
+		<td>Cumque!</td>
+		<td>Explicabo.</td>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
+		<td>Labore!</td>
+		<td>Harum.</td>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Reiciendis.</td>
 		<td>Voluptate!</td>
-		<td>Quod!</td>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Sint!</td>
-		<td>Tenetur?</td>
 	</tr>
 </table>
+</div>
 
+<div class="container-fluid">
+<!-- table.table>tr>th*3>lorem1^^tr*3>td*3>lorem1 -->
+<table class="table">
+	<tr>
+		<th>Lorem.</th>
+		<th>Eos.</th>
+		<th>Incidunt.</th>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Odio.</td>
+		<td>Quae.</td>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Perspiciatis.</td>
+		<td>Voluptatem.</td>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Expedita.</td>
+		<td>Sit!</td>
+	</tr>
+</table>
+</div>
 </body>
 </html>
