@@ -3,6 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+</style>
 <meta charset="UTF-8">
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -84,14 +86,16 @@
 	
 	<button class="btn btn-primary">
 		<span class="spinner-border spinner-border-sm"></span>
+		
 		로딩중..
 	</button>
 	<button class="btn btn-danger" disabled>
 		<span class="spinner-border spinner-border-sm"></span>
 		로딩중..
 	</button>
-	<button class="btn btn-warning" disabled>
-		<span class="spinner-grow spinner-grow-sm"> </span>
+	<button class="btn btn-warning" >
+		<span class="spinner-grow spinner-grow-sm"> 
+		<img src="kakao.jpg" alt="" width="30px" height="30px""/></span>
 		KakaoTalk..
 	</button>
 </div>
