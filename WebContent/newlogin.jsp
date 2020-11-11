@@ -64,7 +64,7 @@
   <button type="submit" class="btn btn-primary">회원 가입</button>
 </form>
 </div>
-<div class="jumotron text-center" style="margin-botto:0; background-color: gray;height: 100%;">
+<div class="jumotron text-center" style="margin-botto:0; background-color: gray;height: 100%; background-size: cover;">
 	<p>Created by Mj</p>
 	<p>🌈 010-4938-7777</p>
 	<p>인천 계양구 작전동</p>
